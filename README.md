@@ -9,6 +9,3 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:senlinsky/PhpProject.git
 git push -u origin master
-q 
-q 
-q 
